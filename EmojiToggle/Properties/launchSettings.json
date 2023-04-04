@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmojiToggle": {
+      "commandName": "Project",
+      "commandLineArgs": "signin"
+    }
+  }
+}
