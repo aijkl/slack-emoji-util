@@ -1,5 +1,10 @@
 # slack-emoji-util
 
+clientId
+clientSecret
+callBackUrl
+は各自の環境に合った値を入力してください
+https://github.com/aijkl/slack-emoji-util/blob/a315c9f432532ab84e2b99ffb19610b66076428b/EmojiToggle/appsettings.json#L1-L5
 
 ### 認証
 
